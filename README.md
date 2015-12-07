@@ -26,7 +26,7 @@ FE4 is using some weird XOR based encryption, but I really cannot remember how I
 
 The repo contains the C++ source code for the main  window of the application, a header file, the resource id file, some IDE file, and a header for what looks like another DLL file used to for some file dialogs. Don't expect any comments in the source. I found the source code in the Sent folder of my mail, sent in 2008 to a friend. The content of the mail said:
 
-` *here is it, without bmps and dlls* `
+` here is it, without bmps and dlls `
 
 and a 7z file was attached. I am uploading everything in that archive to the repo.
 
