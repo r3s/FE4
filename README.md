@@ -1,7 +1,7 @@
 ** Note: This application is not to be used for your encryption purposes **
 
 
-# ** FE 4 - File Encoder 4 **
+# FE 4 - File Encoder 4
 -----------------------------------------------
 In case you want to try it out before reading what I have to say: http://download.cnet.com/FE4/3000-2381_4-10851484.html
 
@@ -18,13 +18,13 @@ FE4 was written probably in early 2007, but I am really not sure. The modified d
 
 #### Encryption.
 
-My interest in encryption during that time was really evident in my projects. Every simple program I wrote in school were to encrypt messages or files. I was going on implementing my own encryption techniques, which I later realized was nothing but variations of ROT cipher. One of the projects I did for school was an early version of FE, which used the graphics.h library or the UI. I made simple widgets like buttons and tables for me to use in the program. I really wish I had the source so that I could see the spirit I once had in programming which seems to be lost. But that's a story for another day.
+My interest in encryption during that time was really evident in my projects. Every simple program I wrote in school were to encrypt messages or files. I was going on implementing my own encryption techniques, which I later realized was nothing but variations of ROT cipher. One of the projects I did for school was an early version of FE, which used the graphics.h library for the UI. I made simple widgets like buttons and tables for me to use in the program. I really wish I had the source so that I could see the spirit I once had in programming which seems to be lost. But that's a story for another day.
 
 FE4 is using some weird XOR based encryption, but I really cannot remember how I went about it. The code for the encryption and decryption was separated in to a DLL file, whose source file I am unable to find. I do remember reading about cryptography at the time but have no idea if I have applied any of it in the application.
 
 #### What is in the repo?
 
-The repo contains the C++ source code for the main  window of the application, a header file, the resource id file, some IDE file, and a header for what looks like another DLL file used to for some file dialogs. I found the source code in the Sent folder of my mail, sent in 2008 to a friend. The content of the mail said:
+The repo contains the C++ source code for the main  window of the application, a header file, the resource id file, some IDE file, and a header for what looks like another DLL file used to for some file dialogs. Don't expect any comments in the source. I found the source code in the Sent folder of my mail, sent in 2008 to a friend. The content of the mail said:
 
 *here is it, without bmps and dlls*
 
