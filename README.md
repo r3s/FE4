@@ -26,14 +26,14 @@ FE4 is using some weird XOR based encryption, but I really cannot remember how I
 
 The repo contains the C++ source code for the main  window of the application, a header file, the resource id file, some IDE file, and a header for what looks like another DLL file used to for some file dialogs. Don't expect any comments in the source. I found the source code in the Sent folder of my mail, sent in 2008 to a friend. The content of the mail said:
 
-` here is it, without bmps and dlls `
+` here it is, without bmps and dlls `
 
 and a 7z file was attached. I am uploading everything in that archive to the repo.
 
 
 #### I want to hear more!
 
-Well, you got it! I happened to upload application to CNET's download.com website. This was done almost a year later in 2008, and had around 131 downloads! I even was able to get a review from an editor to make a proper installer for the application. I didn't know how to use the available free installer maker software at the time. I had to add a registry entry to support right-click context menu and I couldn't or the life of it figure out how to make that work. So what I did was to make the whole package a WinRAR self extracting archive and to run a small app I made myself to setup the registry keys. If you are curious, you can find the working FE4 at http://download.cnet.com/FE4/3000-2381_4-10851484.html
+Well, you got it! I happened to upload application to CNET's download.com website. This was done almost a year later in 2008, and had 131 downloads! I was even able to get a review from an editor to make a proper installer for the application. I didn't know how to use the available free installer maker software at the time. I had to add a registry entry to support right-click context menu and I couldn't or the life of it figure out how to make that work. So what I did was to make the whole package a WinRAR self extracting archive and to run a small app I made myself to setup the registry keys. If you are curious, you can find the working FE4 at http://download.cnet.com/FE4/3000-2381_4-10851484.html
 
 #### The END
 
